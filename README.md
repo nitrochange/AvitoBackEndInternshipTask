@@ -1,2 +1,2 @@
 # AvitoBackEndInternshipTask
-Testing task for intern Go position.
+Testing task for Avito intern position.
