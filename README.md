@@ -1,2 +1,1 @@
-# Financial service
-Testing task for Avito intern position.
+# Will be a good app here
